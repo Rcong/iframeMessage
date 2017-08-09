@@ -1,5 +1,5 @@
 # 基于postMessage 的跨域通信封装
-兼容ie6/7/8/9 的iframe通行
+兼容ie6/7/8/9 的iframe通信
 
 ```javascript
 	//parent.html
